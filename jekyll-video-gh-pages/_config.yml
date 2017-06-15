@@ -1,7 +1,7 @@
 name: Super Moto
 description: Template for a video blog.
-url: 'https://ridorandika.github.io'
-baseurl: '/ridorandika.github.io'
+url: http://ridorandika.github.io
+baseurl: /ridorandika.github.ioss
 email: jekyll-video@example.com
 twitter: https://twitter.com/jekyll-video
 youtube: https://www.youtube.com/jekyll-video
